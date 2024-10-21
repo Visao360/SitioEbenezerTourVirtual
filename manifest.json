@@ -1,6 +1,4 @@
 {
- "name": "Sítio Ebenezer",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#FFFFFF",
  "start_url": "index.htm?installed=true",
+ "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "name": "Sítio Ebenezer"
 }
